@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リリィ（feat. 倚水）",
+  "base_artist": "吐息.",
+  "createdAt": "2026-02-25T05:37:48.232012Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リリィ (feat. 倚水)",
+      "artist": "吐息.",
+      "has_synced": false,
+      "path": "select/pl_01_リリィ_(feat._倚水)_吐息..txt"
+    }
+  ]
+}
